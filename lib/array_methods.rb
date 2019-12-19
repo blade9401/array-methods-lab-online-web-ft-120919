@@ -10,17 +10,21 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+  my_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  my_array.reverse
 end
 
 def using_first(array)
-
+  my_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  my_array.first
 end
 
 def using_last(array)
-
+  my_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  my_array.last
 end
 
 def using_size(array)
-
+  my_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  my_array.index
 end
